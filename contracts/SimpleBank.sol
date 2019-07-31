@@ -1,4 +1,4 @@
-* Create an event called LogWithdrawal */
+/* Create an event called LogWithdrawal */
     /* Add 3 arguments for this event, an accountAddress, withdrawAmount and a newBalance */
     event LogWithdrawal(address accountAddress, unit withdrawAmount, unit newBalance);
 
